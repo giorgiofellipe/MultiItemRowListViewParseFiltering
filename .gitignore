@@ -3,3 +3,7 @@
 out
 gen
 bin
+.gitignore
+.idea
+*.properties
+proguard-project.txt
