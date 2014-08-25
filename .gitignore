@@ -1,0 +1,7 @@
+.DS_Store
+out
+gen
+bin
+.idea
+*.properties
+proguard-project.txt
